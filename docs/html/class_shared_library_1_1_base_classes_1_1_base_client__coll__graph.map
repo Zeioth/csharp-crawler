@@ -1,0 +1,6 @@
+<map id="SharedLibrary.BaseClasses.BaseClient" name="SharedLibrary.BaseClasses.BaseClient">
+<area shape="rect" id="node3" href="$class_shared_library_1_1_wrappers_1_1_web_utils_1_1_web_request_wrapper.html" title="Wrapper for WebRequests. " alt="" coords="1147,1151,1341,1536"/>
+<area shape="rect" id="node13" href="$class_shared_library_1_1_wrappers_1_1_mongo_d_b_1_1_mongo_d_b_wrapper.html" title="Perform MongoDB operations adapted to our system. " alt="" coords="302,1180,527,1507"/>
+<area shape="rect" id="node19" href="$class_shared_library_1_1_parsers_1_1_parser.html" title="This class contains common methods for all parsers. " alt="" coords="5,145,184,985"/>
+<area shape="rect" id="node18" href="$class_shared_library_1_1_parsers_1_1_google_play_parser.html" title="{SharedLibrary.Parsers.Google\lPlayParser\n||+ ParseAppPage()\l}" alt="" coords="39,1297,235,1389"/>
+</map>

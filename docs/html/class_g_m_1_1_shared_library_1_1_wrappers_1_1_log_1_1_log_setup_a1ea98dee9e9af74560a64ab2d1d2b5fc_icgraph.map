@@ -1,0 +1,9 @@
+<map id="GM.SharedLibrary.Wrappers.Log.LogSetup.InitializeLog" name="GM.SharedLibrary.Wrappers.Log.LogSetup.InitializeLog">
+<area shape="rect" id="node2" href="$class_apps_cleaner_1_1_apps_cleaner.html#a6f1acdc00d7d4514bb74ad3dd557f1b7" title="AppsCleaner.AppsCleaner.Main" alt="" coords="247,5,455,32"/>
+<area shape="rect" id="node3" href="$class_apps_updater_1_1_apps_updater.html#aed71495f64f6bcfbe344ee11b3cb7c4b" title="AppsUpdater.AppsUpdater.Main" alt="" coords="245,56,456,83"/>
+<area shape="rect" id="node4" href="$class_daily_scraper_1_1_daily_scraper.html#a946550ae53f1d51c216c87b073e702cc" title="DailyScraper.DailyScraper.Main" alt="" coords="247,107,455,133"/>
+<area shape="rect" id="node5" href="$class_crawlers_1_1_one_page_crawler.html#a0439bbdcdcaee6fd6321f4cacce7b557" title="Crawlers.OnePageCrawler.Main" alt="" coords="246,157,455,184"/>
+<area shape="rect" id="node6" href="$class_g_m_1_1_shared_library_1_1_base_classes_1_1_base_client.html#a9acabf95907a012c2bd841e77f18b114" title="Will reinstantiate and configure our Loger with the current arguments. " alt="" coords="244,209,457,250"/>
+<area shape="rect" id="node7" href="$class_g_m_1_1_crawler_1_1_crawler.html#a7cda938594266628674dc9cf9ea1220e" title="Manages the arguments. " alt="" coords="505,187,724,213"/>
+<area shape="rect" id="node8" href="$class_g_m_1_1_top_crawler_1_1_top_crawler.html#a08d049cc9aa7c408a3f0bdedddd2a5bf" title="Pass the console arguments to the TopCrawler object. " alt="" coords="520,238,709,279"/>
+</map>

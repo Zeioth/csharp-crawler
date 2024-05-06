@@ -1,0 +1,15 @@
+<map id="GooglePlayTools.TopCrawler.Main" name="GooglePlayTools.TopCrawler.Main">
+<area shape="rect" id="node2" href="$class_google_play_tools_1_1_top_crawler.html#a3d627074f164ab364e21f879fc4448cf" title="GooglePlayTools.TopCrawler.\lTopCrawler" alt="" coords="521,49,717,91"/>
+<area shape="rect" id="node4" href="$class_google_play_tools_1_1_top_crawler.html#a191e8af6bc52135a44a64ceb10d4dbab" title="Pass the console arguments to the TopCrawler object. " alt="" coords="277,297,473,339"/>
+<area shape="rect" id="node8" href="$class_google_play_tools_1_1_top_crawler.html#acbeb073bfbb44d52ab97025cf4344bcd" title="Core of the program, without VPN support. " alt="" coords="277,56,473,97"/>
+<area shape="rect" id="node14" href="$class_google_play_tools_1_1_top_crawler.html#aeadb93d5f36080a0077afec1bbefd889" title="Core of the program. " alt="" coords="277,173,473,215"/>
+<area shape="rect" id="node3" href="$class_google_play_tools_1_1_top_crawler.html#aee322550694651486882ba8d322f8f0d" title="Set all fields to default. " alt="" coords="765,49,961,91"/>
+<area shape="rect" id="node5" href="$class_shared_library_1_1_base_classes_1_1_base_client.html#aae27eee9f2b6b211a382dad526bc4c89" title="Will reinstantiate and configure our Loger with the current arguments. " alt="" coords="525,297,713,339"/>
+<area shape="rect" id="node7" href="$class_shared_library_1_1_base_classes_1_1_base_client.html#a95d6ebace6c6803e19f4526780d070d0" title="Will reinstantiate and configure mongoDB with the current arguments. " alt="" coords="525,363,713,404"/>
+<area shape="rect" id="node6" href="$class_shared_library_1_1_wrappers_1_1_log_1_1_log_setup.html#a2b5fb5a18ce4db2bfdd3f4e55ff74b5c" title="SharedLibrary.Wrappers.Log.\lLogSetup.InitializeLog" alt="" coords="768,297,959,339"/>
+<area shape="rect" id="node9" href="$class_google_play_tools_1_1_top_crawler.html#a8833c375666128502d42a81b5c698ccd" title="It crawl the selected ranking for an specified country. " alt="" coords="521,115,717,156"/>
+<area shape="rect" id="node11" href="$class_shared_library_1_1_exception_callback.html#aac4c08013df130611a62a19c6233003d" title="It Sends an email to the administrator. " alt="" coords="1009,115,1228,156"/>
+<area shape="rect" id="node10" href="$class_google_play_tools_1_1_top_crawler.html#a35c42a4378b8dab9f2b01961d331a350" title="Permorm requests to PlayStore and gets the html code of the current top. " alt="" coords="765,115,961,156"/>
+<area shape="rect" id="node13" href="$class_google_play_tools_1_1_top_crawler.html#a33ba1796a53f2bbde8c53dadb2eb4ec7" title="Stores the apps from every playstore ranking into MongoDB topdata collection. " alt="" coords="765,180,961,221"/>
+<area shape="rect" id="node12" href="$class_shared_library_1_1_wrappers_1_1_email_management_1_1_s_m_t_p.html#ab395843cd4b16b53dcb464fce27c0b95" title="Send an email from bypassing SSL security. Only for testing pourposes. " alt="" coords="1276,115,1567,156"/>
+</map>

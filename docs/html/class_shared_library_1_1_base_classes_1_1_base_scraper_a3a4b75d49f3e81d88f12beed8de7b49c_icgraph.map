@@ -1,0 +1,10 @@
+<map id="SharedLibrary.BaseClasses.BaseScraper.GetHtmlCode" name="SharedLibrary.BaseClasses.BaseScraper.GetHtmlCode">
+<area shape="rect" id="node2" href="$class_google_play_tools_1_1_apps_cleaner.html#ad1e3dea8019a02ecf4003c76e487f85e" title="Core of the program " alt="" coords="242,5,446,47"/>
+<area shape="rect" id="node4" href="$class_google_play_tools_1_1_apps_updater.html#a14e768be40fbea587aa66a29f3a60bb1" title="Core of the program " alt="" coords="241,71,447,112"/>
+<area shape="rect" id="node6" href="$class_google_play_tools_1_1_daily_scraper.html#aadcfff084259824864c11231b65232d9" title="Core of the program " alt="" coords="242,136,446,177"/>
+<area shape="rect" id="node8" href="$class_google_play_tools_1_1_scraper.html#a2848c703fdd45a94b1d7ff3dcbe6f16e" title="Core of the program " alt="" coords="257,201,431,243"/>
+<area shape="rect" id="node3" href="$class_google_play_tools_1_1_apps_cleaner.html#acf95c265d50c6cf848d842335ba5b9df" title="GooglePlayTools.AppsCleaner.Main" alt="" coords="495,13,727,39"/>
+<area shape="rect" id="node5" href="$class_google_play_tools_1_1_apps_updater.html#a3e2915af6c440ec72b42e19cfc92d5de" title="GooglePlayTools.AppsUpdater.Main" alt="" coords="495,78,728,105"/>
+<area shape="rect" id="node7" href="$class_google_play_tools_1_1_daily_scraper.html#aeb3adeedd8addd86ca48a898de29f9d9" title="GooglePlayTools.DailyScraper.Main" alt="" coords="495,143,727,170"/>
+<area shape="rect" id="node9" href="$class_google_play_tools_1_1_scraper.html#aa2c168d1ddfe55e726f2f410381c4734" title="GooglePlayTools.Scraper.Main" alt="" coords="510,209,713,235"/>
+</map>

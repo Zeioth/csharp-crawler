@@ -1,0 +1,5 @@
+<map id="GM.SharedLibrary.Wrappers.WebUtils.WebRequestWrapper.Get" name="GM.SharedLibrary.Wrappers.WebUtils.WebRequestWrapper.Get">
+<area shape="rect" id="node2" href="$class_apps_cleaner_1_1_apps_cleaner.html#a6f1acdc00d7d4514bb74ad3dd557f1b7" title="AppsCleaner.AppsCleaner.Main" alt="" coords="285,5,493,32"/>
+<area shape="rect" id="node3" href="$class_apps_updater_1_1_apps_updater.html#aed71495f64f6bcfbe344ee11b3cb7c4b" title="AppsUpdater.AppsUpdater.Main" alt="" coords="284,56,495,83"/>
+<area shape="rect" id="node4" href="$class_daily_scraper_1_1_daily_scraper.html#a946550ae53f1d51c216c87b073e702cc" title="DailyScraper.DailyScraper.Main" alt="" coords="285,107,493,133"/>
+</map>

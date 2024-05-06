@@ -1,0 +1,6 @@
+<map id="SharedLibrary.EmbebedClients.UsersWrapper.GetUsersData" name="SharedLibrary.EmbebedClients.UsersWrapper.GetUsersData">
+<area shape="rect" id="node2" href="$class_shared_library_1_1_parsers_1_1_parser.html#ab934e4a5acf795557ec40574e3fef0b1" title="Parse all apps used by a playstore user. This method must never store users personal information..." alt="" coords="286,5,483,47"/>
+<area shape="rect" id="node3" href="$class_shared_library_1_1_exception_callback.html#aac4c08013df130611a62a19c6233003d" title="It Sends an email to the administrator. " alt="" coords="557,35,776,76"/>
+<area shape="rect" id="node5" href="$class_shared_library_1_1_wrappers_1_1_mongo_d_b_1_1_mongo_d_b_wrapper.html#aa4678e5fc42ebc9b990246e91f49feef" title="Checks in Constants.APPS_DATA_COLLECTION if the category of the app corresponds to any item in Consta..." alt="" coords="260,123,509,164"/>
+<area shape="rect" id="node4" href="$class_shared_library_1_1_wrappers_1_1_email_management_1_1_s_m_t_p.html#ab395843cd4b16b53dcb464fce27c0b95" title="Send an email from bypassing SSL security. Only for testing pourposes. " alt="" coords="824,35,1115,76"/>
+</map>

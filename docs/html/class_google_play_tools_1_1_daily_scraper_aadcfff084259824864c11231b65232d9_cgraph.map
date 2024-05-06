@@ -1,0 +1,9 @@
+<map id="GooglePlayTools.DailyScraper.RunScraper" name="GooglePlayTools.DailyScraper.RunScraper">
+<area shape="rect" id="node2" href="$class_shared_library_1_1_base_classes_1_1_base_scraper.html#a3a4b75d49f3e81d88f12beed8de7b49c" title="Performs a request to playstore and get The HTML code of this app page. " alt="" coords="285,5,473,47"/>
+<area shape="rect" id="node3" href="$class_shared_library_1_1_base_classes_1_1_base_scraper.html#a6d08cd8a9ad6d6cda3541da82bb40178" title="Log parsed app is null, is an entity. Log it. This method exists just to ease manteinance. " alt="" coords="285,71,473,112"/>
+<area shape="rect" id="node4" href="$class_shared_library_1_1_embebed_clients_1_1_reviews_scraper.html#ada168ac9f3429d50ace11f1b59ff0fc8" title="This is an embebed client. It crawls all the reviews from an app for every languaje configured in con..." alt="" coords="257,136,500,177"/>
+<area shape="rect" id="node5" href="$class_shared_library_1_1_embebed_clients_1_1_users_scraper.html#a705c749ab7e5c3ad436a5ee3007da5ce" title="This is an embebed client. It recieves a list of user urls. Then makes a request using firefox..." alt="" coords="275,201,482,243"/>
+<area shape="rect" id="node6" href="$class_shared_library_1_1_exception_callback.html#aac4c08013df130611a62a19c6233003d" title="It Sends an email to the administrator. " alt="" coords="548,231,767,272"/>
+<area shape="rect" id="node8" href="$class_google_play_tools_1_1_daily_scraper.html#afac75db52e5c2c5081128620bd0cb45e" title="Performs the required actions to store the buffered apps in MongoDB. " alt="" coords="277,319,481,360"/>
+<area shape="rect" id="node7" href="$class_shared_library_1_1_wrappers_1_1_email_management_1_1_s_m_t_p.html#ab395843cd4b16b53dcb464fce27c0b95" title="Send an email from bypassing SSL security. Only for testing pourposes. " alt="" coords="815,231,1105,272"/>
+</map>

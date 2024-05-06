@@ -1,0 +1,17 @@
+<map id="SharedLibrary.Wrappers.Log.LogSetup.InitializeLog" name="SharedLibrary.Wrappers.Log.LogSetup.InitializeLog">
+<area shape="rect" id="node2" href="$class_shared_library_1_1_base_classes_1_1_base_client.html#aae27eee9f2b6b211a382dad526bc4c89" title="Will reinstantiate and configure our Loger with the current arguments. " alt="" coords="244,201,432,243"/>
+<area shape="rect" id="node3" href="$class_google_play_tools_1_1_apps_cleaner.html#acb32f29c7de3324085ff4f0d81df8786" title="Manages the arguments. " alt="" coords="481,5,685,47"/>
+<area shape="rect" id="node5" href="$class_google_play_tools_1_1_apps_updater.html#abc91711e38b869f1782b62bb57e09ead" title="Manages the arguments. " alt="" coords="480,71,685,112"/>
+<area shape="rect" id="node7" href="$class_google_play_tools_1_1_crawler.html#ac90798b09cfb89e39c0f544fbb4590af" title="Manages the arguments. " alt="" coords="495,136,670,177"/>
+<area shape="rect" id="node9" href="$class_google_play_tools_1_1_daily_scraper.html#a7d3aeefe7f990a96bf1351b5ac63efed" title="Manages the arguments. " alt="" coords="481,201,685,243"/>
+<area shape="rect" id="node11" href="$class_google_play_tools_1_1_scraper.html#ae4a9fb668b7fcd28f65edfedda787a60" title="Manages the arguments. " alt="" coords="495,267,670,308"/>
+<area shape="rect" id="node13" href="$class_google_play_tools_1_1_term_crawler.html#a771bb277798abefff1a71ca73408716f" title="Manages the arguments. " alt="" coords="481,332,685,373"/>
+<area shape="rect" id="node15" href="$class_google_play_tools_1_1_top_scraper.html#a84d9a4f95fcde6f94320edac3f5c9775" title="Pass the console arguments to the TopCrawler object. " alt="" coords="485,397,681,439"/>
+<area shape="rect" id="node4" href="$class_google_play_tools_1_1_apps_cleaner.html#acf95c265d50c6cf848d842335ba5b9df" title="GooglePlayTools.AppsCleaner.Main" alt="" coords="734,13,966,39"/>
+<area shape="rect" id="node6" href="$class_google_play_tools_1_1_apps_updater.html#a3e2915af6c440ec72b42e19cfc92d5de" title="GooglePlayTools.AppsUpdater.Main" alt="" coords="733,78,967,105"/>
+<area shape="rect" id="node8" href="$class_google_play_tools_1_1_crawler.html#ad7c2bb25407588195bba386a17981e89" title="GooglePlayTools.Crawler.Main" alt="" coords="749,143,951,170"/>
+<area shape="rect" id="node10" href="$class_google_play_tools_1_1_daily_scraper.html#aeb3adeedd8addd86ca48a898de29f9d9" title="GooglePlayTools.DailyScraper.Main" alt="" coords="734,209,966,235"/>
+<area shape="rect" id="node12" href="$class_google_play_tools_1_1_scraper.html#aa2c168d1ddfe55e726f2f410381c4734" title="GooglePlayTools.Scraper.Main" alt="" coords="749,274,951,301"/>
+<area shape="rect" id="node14" href="$class_google_play_tools_1_1_term_crawler.html#a555f8243c3171c663c847334029589e4" title="GooglePlayTools.TermCrawler.Main" alt="" coords="734,339,966,366"/>
+<area shape="rect" id="node16" href="$class_google_play_tools_1_1_top_scraper.html#a7467519c2dc59a98dd7d15ad876dd697" title="GooglePlayTools.TopScraper.Main" alt="" coords="738,405,962,431"/>
+</map>

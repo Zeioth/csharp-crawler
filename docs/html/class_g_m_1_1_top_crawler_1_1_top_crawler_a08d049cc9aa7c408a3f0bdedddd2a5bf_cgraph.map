@@ -1,0 +1,5 @@
+<map id="GM.TopCrawler.TopCrawler.ManageArgs" name="GM.TopCrawler.TopCrawler.ManageArgs">
+<area shape="rect" id="node2" href="$class_g_m_1_1_shared_library_1_1_base_classes_1_1_base_client.html#a9acabf95907a012c2bd841e77f18b114" title="Will reinstantiate and configure our Loger with the current arguments. " alt="" coords="243,5,456,47"/>
+<area shape="rect" id="node4" href="$class_g_m_1_1_shared_library_1_1_base_classes_1_1_base_client.html#a1f8196e39050e7f7d18c62207bf6dbc3" title="Will reinstantiate and configure mongoDB with the current arguments. " alt="" coords="243,71,456,112"/>
+<area shape="rect" id="node3" href="$class_g_m_1_1_shared_library_1_1_wrappers_1_1_log_1_1_log_setup.html#a1ea98dee9e9af74560a64ab2d1d2b5fc" title="GM.SharedLibrary.Wrappers.\lLog.LogSetup.InitializeLog" alt="" coords="504,5,695,47"/>
+</map>

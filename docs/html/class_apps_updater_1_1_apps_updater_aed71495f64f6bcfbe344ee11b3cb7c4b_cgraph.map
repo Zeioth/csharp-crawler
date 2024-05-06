@@ -1,0 +1,9 @@
+<map id="AppsUpdater.AppsUpdater.Main" name="AppsUpdater.AppsUpdater.Main">
+<area shape="rect" id="node2" href="$class_shared_library_1_1_wrappers_1_1_log_1_1_log_setup.html#a2b5fb5a18ce4db2bfdd3f4e55ff74b5c" title="SharedLibrary.Wrappers.Log.\lLogSetup.InitializeLog" alt="" coords="329,5,520,47"/>
+<area shape="rect" id="node3" href="$class_shared_library_1_1_wrappers_1_1_mongo_d_b_1_1_mongo_d_b_wrapper.html#aae0d9297ce184d5e72366230ff66bd46" title="Ensures that a collections have an index. " alt="" coords="310,71,539,112"/>
+<area shape="rect" id="node4" href="$class_shared_library_1_1_wrappers_1_1_mongo_d_b_1_1_mongo_d_b_wrapper.html#abd64199ca875d0a9d028a2dacd53478d" title="Prepare the queue for AppsUpdater. This method should run once per day. " alt="" coords="264,136,585,177"/>
+<area shape="rect" id="node5" href="$class_shared_library_1_1_wrappers_1_1_mongo_d_b_1_1_mongo_d_b_wrapper.html#ac1562cc71ba63eca9c78d0ca470e294e" title="Finds an element that is &quot;Not Busy&quot; and modifies it&#39;s status. to &quot;Busy&quot; atomically so that no other w..." alt="" coords="302,201,547,243"/>
+<area shape="rect" id="node6" href="$class_shared_library_1_1_wrappers_1_1_web_utils_1_1_web_request_wrapper.html#a5ebfaf4bfb3a1fc22a1c93985c52ab19" title="Executes a Get creating an HttpWebRequest object based on previously set attributes. Abort only on error so we can reuse connections to improve performance. " alt="" coords="323,267,526,308"/>
+<area shape="rect" id="node7" href="$class_shared_library_1_1_exception_callback.html#aac4c08013df130611a62a19c6233003d" title="It Sends an email to the administrator. " alt="" coords="315,332,534,373"/>
+<area shape="rect" id="node8" href="$class_shared_library_1_1_wrappers_1_1_email_management_1_1_s_m_t_p.html#ab395843cd4b16b53dcb464fce27c0b95" title="Send an email from bypassing SSL security. Only for testing pourposes. " alt="" coords="633,332,924,373"/>
+</map>

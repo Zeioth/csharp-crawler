@@ -1,0 +1,8 @@
+<map id="GooglePlayTools.TopCrawler.RunTopCrawler" name="GooglePlayTools.TopCrawler.RunTopCrawler">
+<area shape="rect" id="node2" href="$class_google_play_tools_1_1_top_crawler.html#a8833c375666128502d42a81b5c698ccd" title="It crawl the selected ranking for an specified country. " alt="" coords="249,104,445,145"/>
+<area shape="rect" id="node4" href="$class_shared_library_1_1_exception_callback.html#aac4c08013df130611a62a19c6233003d" title="It Sends an email to the administrator. " alt="" coords="737,100,956,141"/>
+<area shape="rect" id="node3" href="$class_google_play_tools_1_1_top_crawler.html#a35c42a4378b8dab9f2b01961d331a350" title="Permorm requests to PlayStore and gets the html code of the current top. " alt="" coords="493,5,689,47"/>
+<area shape="rect" id="node6" href="$class_google_play_tools_1_1_top_crawler.html#a33ba1796a53f2bbde8c53dadb2eb4ec7" title="Stores the apps from every playstore ranking into MongoDB topdata collection. " alt="" coords="493,71,689,112"/>
+<area shape="rect" id="node7" href="$class_google_play_tools_1_1_top_crawler.html#aee322550694651486882ba8d322f8f0d" title="Set all fields to default. " alt="" coords="493,136,689,177"/>
+<area shape="rect" id="node5" href="$class_shared_library_1_1_wrappers_1_1_email_management_1_1_s_m_t_p.html#ab395843cd4b16b53dcb464fce27c0b95" title="Send an email from bypassing SSL security. Only for testing pourposes. " alt="" coords="1004,100,1295,141"/>
+</map>

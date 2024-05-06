@@ -1,0 +1,12 @@
+var searchData=
+[
+  ['rankedapp',['RankedApp',['../class_shared_library_1_1_models_1_1_ranked_app.html#a329a90ac793603a728441a62af4218b9',1,'SharedLibrary::Models::RankedApp']]],
+  ['resetobject',['ResetObject',['../class_google_play_tools_1_1_crawler.html#a9a0dea3247d4779f0da6c683e4263d4b',1,'GooglePlayTools.Crawler.ResetObject()'],['../class_shared_library_1_1_embebed_clients_1_1_reviews_scraper.html#ae646c40be1d2aaa1032abf0778219455',1,'SharedLibrary.EmbebedClients.ReviewsScraper.ResetObject()'],['../class_shared_library_1_1_wrappers_1_1_web_utils_1_1_web_request_wrapper.html#a1383f8b438c9b568f5f7b0b9e767b7ee',1,'SharedLibrary.Wrappers.WebUtils.WebRequestWrapper.ResetObject()'],['../class_google_play_tools_1_1_term_crawler.html#a6de2bef96aaa39b078db34410da8c55c',1,'GooglePlayTools.TermCrawler.ResetObject()'],['../class_google_play_tools_1_1_top_scraper.html#a19851134a45003df852d3496cf2fea8a',1,'GooglePlayTools.TopScraper.ResetObject()']]],
+  ['reviewsscraper',['ReviewsScraper',['../class_shared_library_1_1_embebed_clients_1_1_reviews_scraper.html#a703005f64d279266f272fdcef2b894b5',1,'SharedLibrary::EmbebedClients::ReviewsScraper']]],
+  ['runcrawler',['RunCrawler',['../class_google_play_tools_1_1_crawler.html#a59e73de6ae65653fbda1b5e8fa8944d7',1,'GooglePlayTools::Crawler']]],
+  ['runreviewsscraper',['RunReviewsScraper',['../class_shared_library_1_1_embebed_clients_1_1_reviews_scraper.html#ada168ac9f3429d50ace11f1b59ff0fc8',1,'SharedLibrary::EmbebedClients::ReviewsScraper']]],
+  ['runscraper',['RunScraper',['../class_google_play_tools_1_1_apps_cleaner.html#ad1e3dea8019a02ecf4003c76e487f85e',1,'GooglePlayTools.AppsCleaner.RunScraper()'],['../class_google_play_tools_1_1_apps_updater.html#a14e768be40fbea587aa66a29f3a60bb1',1,'GooglePlayTools.AppsUpdater.RunScraper()'],['../class_google_play_tools_1_1_daily_scraper.html#aadcfff084259824864c11231b65232d9',1,'GooglePlayTools.DailyScraper.RunScraper()'],['../class_google_play_tools_1_1_scraper.html#a2848c703fdd45a94b1d7ff3dcbe6f16e',1,'GooglePlayTools.Scraper.RunScraper()']]],
+  ['runtermcrawler',['RunTermCrawler',['../class_google_play_tools_1_1_term_crawler.html#a240ea22d9da72e7086fefde3073c2fed',1,'GooglePlayTools::TermCrawler']]],
+  ['runtopscraper',['RunTopScraper',['../class_google_play_tools_1_1_top_scraper.html#ae5c4fb597652bce5203fb76f10333554',1,'GooglePlayTools::TopScraper']]],
+  ['runtopscrapernovpn',['RunTopScraperNoVPN',['../class_google_play_tools_1_1_top_scraper.html#a544a44286e903fb8a35c6f4e4a42229f',1,'GooglePlayTools::TopScraper']]]
+];

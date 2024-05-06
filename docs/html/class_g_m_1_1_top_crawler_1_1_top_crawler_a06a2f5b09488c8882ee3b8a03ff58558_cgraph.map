@@ -1,0 +1,6 @@
+<map id="GM.TopCrawler.TopCrawler.Main" name="GM.TopCrawler.TopCrawler.Main">
+<area shape="rect" id="node2" href="$class_g_m_1_1_top_crawler_1_1_top_crawler.html#a310cff9de8859b8b9db41739a324e192" title="Core of the program, without VPN support. " alt="" coords="271,5,460,47"/>
+<area shape="rect" id="node5" href="$class_g_m_1_1_top_crawler_1_1_top_crawler.html#acb350d4dbc8df921aa064f5306326b89" title="Core of the program. " alt="" coords="271,71,460,112"/>
+<area shape="rect" id="node3" href="$class_g_m_1_1_shared_library_1_1_exception_callback.html#a80ee1bcbf7d10d4546f4ef7d41fdcb3b" title="It Sends an email to the administrator. " alt="" coords="508,39,697,80"/>
+<area shape="rect" id="node4" href="$class_g_m_1_1_shared_library_1_1_wrappers_1_1_email_management_1_1_s_m_t_p.html#a62f073709b07e065ef7fcbf0ef67643d" title="Send an email from bypassing SSL security. Only for testing pourposes. " alt="" coords="745,31,984,87"/>
+</map>

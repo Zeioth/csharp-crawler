@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['term',['term',['../class_google_play_tools_1_1_term_crawler.html#a2b426b7c9b95e0a1efc31056f465cdb4',1,'GooglePlayTools::TermCrawler']]],
+  ['term_5fcrawler_5ferror',['TERM_CRAWLER_ERROR',['../class_shared_library_1_1_constants.html#a0906a0ad67f109a605ac205e3dbb4996',1,'SharedLibrary::Constants']]],
+  ['term_5fcrawler_5fmax_5fpages',['TERM_CRAWLER_MAX_PAGES',['../class_shared_library_1_1_constants.html#a7fea94b38b59ae968b4c4f5afd5c2921',1,'SharedLibrary::Constants']]],
+  ['term_5fcrawler_5fqueue_5fcollection',['TERM_CRAWLER_QUEUE_COLLECTION',['../class_shared_library_1_1_constants.html#aba851065cfa10b4b86b46572808ef159',1,'SharedLibrary::Constants']]],
+  ['terms',['terms',['../class_google_play_tools_1_1_bootstrap_terms.html#a8b12bdf3b53355146b5b1d4b579d14c1',1,'GooglePlayTools::BootstrapTerms']]],
+  ['thereispagetoken',['thereIsPageToken',['../class_google_play_tools_1_1_crawler.html#a1da794078621579c82d558cece426991',1,'GooglePlayTools.Crawler.thereIsPageToken()'],['../class_google_play_tools_1_1_term_crawler.html#ac869749869426b1830da43029c21c1a2',1,'GooglePlayTools.TermCrawler.thereIsPageToken()']]],
+  ['thereissearchresults',['thereIsSearchResults',['../class_google_play_tools_1_1_crawler.html#a862dbe0bc387ea92d6970dc4ccb2df89',1,'GooglePlayTools.Crawler.thereIsSearchResults()'],['../class_google_play_tools_1_1_term_crawler.html#a97132db2e4cdd2d8e05f88ce0ef814c9',1,'GooglePlayTools.TermCrawler.thereIsSearchResults()']]],
+  ['timeout_5frequest_5ferror',['TIMEOUT_REQUEST_ERROR',['../class_shared_library_1_1_constants.html#a4be5edae3815d49be2d5c0b2efd2ac84',1,'SharedLibrary::Constants']]],
+  ['timeout_5frequest_5ferror_5fflag',['TIMEOUT_REQUEST_ERROR_FLAG',['../class_shared_library_1_1_globals.html#abe001de6790853f6497a4b104ac61e01',1,'SharedLibrary::Globals']]],
+  ['tmpreviews',['tmpReviews',['../class_shared_library_1_1_embebed_clients_1_1_reviews_scraper.html#a0d6c77c19509c3be5a4576c4a85be3d9',1,'SharedLibrary::EmbebedClients::ReviewsScraper']]],
+  ['too_5fmany_5fconsecutive_5frequests_5ferror',['TOO_MANY_CONSECUTIVE_REQUESTS_ERROR',['../class_shared_library_1_1_constants.html#a88a6dbf1cb42bbc7f70cb08b7e328646',1,'SharedLibrary::Constants']]],
+  ['too_5fmany_5fconsecutive_5frequests_5ferror_5fflag',['TOO_MANY_CONSECUTIVE_REQUESTS_ERROR_FLAG',['../class_shared_library_1_1_globals.html#a950c8ac1edd1348d01e5e792093350ad',1,'SharedLibrary::Globals']]],
+  ['toomanyconsecutivebadrequests',['tooManyConsecutiveBadRequests',['../class_shared_library_1_1_base_classes_1_1_base_client.html#a7ad819573d46ca9683c8a355ef98f1b4',1,'SharedLibrary::BaseClasses::BaseClient']]],
+  ['toomanyconsecutiveerrors',['tooManyConsecutiveErrors',['../class_shared_library_1_1_base_classes_1_1_base_client.html#a51e6b8551ad84c2d5a55ab803d1b6b3d',1,'SharedLibrary::BaseClasses::BaseClient']]],
+  ['top_5fcrawler_5ferror',['TOP_CRAWLER_ERROR',['../class_shared_library_1_1_constants.html#a08284fc92c0917ce47d4184c304debbf',1,'SharedLibrary::Constants']]],
+  ['top_5fcrawler_5fmax_5fpages',['TOP_CRAWLER_MAX_PAGES',['../class_shared_library_1_1_constants.html#aa89fe7ad0fab54bbb8e996a6610567cc',1,'SharedLibrary::Constants']]],
+  ['top_5fcrawler_5fpage_5fresults',['TOP_CRAWLER_PAGE_RESULTS',['../class_shared_library_1_1_constants.html#a1f804d628468efc4435ab38087d19753',1,'SharedLibrary::Constants']]],
+  ['top_5fdata_5fcollection',['TOP_DATA_COLLECTION',['../class_shared_library_1_1_constants.html#a7f00a9f6ffab268897eafaf107bcc655',1,'SharedLibrary::Constants']]]
+];

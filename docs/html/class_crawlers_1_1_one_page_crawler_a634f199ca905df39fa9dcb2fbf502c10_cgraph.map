@@ -1,0 +1,6 @@
+<map id="Crawlers.OnePageCrawler.CrawlOnePage" name="Crawlers.OnePageCrawler.CrawlOnePage">
+<area shape="rect" id="node2" href="$class_g_m_1_1_shared_library_1_1_parsers_1_1_parser.html#aca865d8993e36497c16dd22c0970e438" title="Parse App URLS from the Search Result. This method is used by the crawlers. " alt="" coords="237,5,421,47"/>
+<area shape="rect" id="node3" href="$class_g_m_1_1_shared_library_1_1_exception_callback.html#a80ee1bcbf7d10d4546f4ef7d41fdcb3b" title="It Sends an email to the administrator. " alt="" coords="235,71,424,112"/>
+<area shape="rect" id="node5" href="$class_crawlers_1_1_one_page_crawler.html#ad7a22f62676a635e7d1d853cf11d0b46" title="Enqueue an app in database worker queue. It&#39;s just an adapted/simplified version of Crawler&#39;s Enqueue..." alt="" coords="239,136,420,177"/>
+<area shape="rect" id="node4" href="$class_g_m_1_1_shared_library_1_1_wrappers_1_1_email_management_1_1_s_m_t_p.html#a62f073709b07e065ef7fcbf0ef67643d" title="Send an email from bypassing SSL security. Only for testing pourposes. " alt="" coords="472,63,711,119"/>
+</map>

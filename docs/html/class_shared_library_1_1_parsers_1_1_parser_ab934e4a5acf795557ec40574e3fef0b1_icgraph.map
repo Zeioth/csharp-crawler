@@ -1,0 +1,5 @@
+<map id="SharedLibrary.Parsers.Parser.ParseUserData" name="SharedLibrary.Parsers.Parser.ParseUserData">
+<area shape="rect" id="node2" href="$class_shared_library_1_1_embebed_clients_1_1_users_scraper.html#a705c749ab7e5c3ad436a5ee3007da5ce" title="This is an embebed client. It recieves a list of user urls. Then makes a request using firefox..." alt="" coords="251,5,457,47"/>
+<area shape="rect" id="node3" href="$class_google_play_tools_1_1_daily_scraper.html#aadcfff084259824864c11231b65232d9" title="Core of the program " alt="" coords="505,5,709,47"/>
+<area shape="rect" id="node4" href="$class_google_play_tools_1_1_daily_scraper.html#aeb3adeedd8addd86ca48a898de29f9d9" title="GooglePlayTools.DailyScraper.Main" alt="" coords="757,13,989,39"/>
+</map>

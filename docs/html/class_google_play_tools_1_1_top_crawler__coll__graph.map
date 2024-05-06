@@ -1,0 +1,8 @@
+<map id="GooglePlayTools.TopCrawler" name="GooglePlayTools.TopCrawler">
+<area shape="rect" id="node2" href="$class_shared_library_1_1_base_classes_1_1_base_crawler.html" title="Fields and methods used by all Crawlers. " alt="" coords="1937,1797,2054,1875"/>
+<area shape="rect" id="node3" href="$class_shared_library_1_1_base_classes_1_1_base_client.html" title="Fields and methods used by all clients. " alt="" coords="1202,1628,1333,1720"/>
+<area shape="rect" id="node5" href="$class_shared_library_1_1_wrappers_1_1_web_utils_1_1_web_request_wrapper.html" title="Wrapper for WebRequests. " alt="" coords="1171,1151,1364,1536"/>
+<area shape="rect" id="node15" href="$class_shared_library_1_1_wrappers_1_1_mongo_d_b_1_1_mongo_d_b_wrapper.html" title="Perform MongoDB operations adapted to our system. " alt="" coords="167,1180,392,1507"/>
+<area shape="rect" id="node21" href="$class_shared_library_1_1_parsers_1_1_parser.html" title="This class contains common methods for all parsers. " alt="" coords="446,145,625,985"/>
+<area shape="rect" id="node20" href="$class_shared_library_1_1_parsers_1_1_google_play_parser.html" title="{SharedLibrary.Parsers.Google\lPlayParser\n||+ ParseAppPage()\l}" alt="" coords="703,1297,899,1389"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="SharedLibrary.BaseClasses.BaseCrawler" name="SharedLibrary.BaseClasses.BaseCrawler">
+<area shape="rect" id="node3" href="$class_google_play_tools_1_1_crawler.html" title="This project performs predefined searches into GooglePlay to populate the scraper queue..." alt="" coords="5,806,176,1015"/>
+<area shape="rect" id="node4" href="$class_google_play_tools_1_1_term_crawler.html" title="This project look into db to perform searches suggested by our users into GooglePlay to populate the ..." alt="" coords="200,799,400,1023"/>
+<area shape="rect" id="node5" href="$class_google_play_tools_1_1_top_crawler.html" title="Crawl GooglePlay top apps and store them into &quot;topdata&quot; collection. " alt="" coords="424,791,616,1030"/>
+<area shape="rect" id="node6" href="$class_shared_library_1_1_embebed_clients_1_1_reviews_crawler.html" title="Wrapper of the Parser class. It parses comments from an app. In practice, it works like an embebed sc..." alt="" coords="641,711,847,1111"/>
+<area shape="rect" id="node2" href="$class_shared_library_1_1_base_classes_1_1_base_client.html" title="Fields and methods used by all clients. " alt="" coords="292,5,527,449"/>
+</map>

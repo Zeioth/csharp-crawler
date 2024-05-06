@@ -1,0 +1,7 @@
+<map id="GooglePlayTools.DailyScraper.RunScraper" name="GooglePlayTools.DailyScraper.RunScraper">
+<area shape="rect" id="node2" href="$class_shared_library_1_1_base_classes_1_1_base_scraper.html#a916803314f25d292fb9084edcce8a1bc" title="Performs a request to playstore and get The HTML code of this app page. " alt="" coords="273,5,461,47"/>
+<area shape="rect" id="node3" href="$class_shared_library_1_1_base_classes_1_1_base_scraper.html#aaffdb868147f7825c3d92ea837e3cf57" title="Removes the app from the selected queue if parser returns null. " alt="" coords="271,71,463,112"/>
+<area shape="rect" id="node4" href="$class_google_play_tools_1_1_daily_scraper.html#afac75db52e5c2c5081128620bd0cb45e" title="Performs the required actions to store the buffered apps in MongoDB. " alt="" coords="265,136,469,177"/>
+<area shape="rect" id="node5" href="$class_shared_library_1_1_exception_callback.html#aac4c08013df130611a62a19c6233003d" title="It Sends an email to the administrator. " alt="" coords="257,201,476,243"/>
+<area shape="rect" id="node6" href="$class_shared_library_1_1_wrappers_1_1_email_management_1_1_s_m_t_p.html#ab395843cd4b16b53dcb464fce27c0b95" title="Send an email from bypassing SSL security. Only for testing pourposes. " alt="" coords="524,201,815,243"/>
+</map>

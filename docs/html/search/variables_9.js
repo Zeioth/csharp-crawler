@@ -1,0 +1,5 @@
+var searchData=
+[
+  ['lang',['lang',['../class_shared_library_1_1_embebed_clients_1_1_reviews_scraper.html#aed7ebd1961ddc8ba72c020ac021dea7a',1,'SharedLibrary::EmbebedClients::ReviewsScraper']]],
+  ['logger',['logger',['../class_shared_library_1_1_base_classes_1_1_base_client.html#aa17574647bb4ba39b5f6c8c28940ba5e',1,'SharedLibrary.BaseClasses.BaseClient.logger()'],['../class_shared_library_1_1_parsers_1_1_base_parser.html#a8c1fe92fac6333cc3d997c7c870513e0',1,'SharedLibrary.Parsers.BaseParser.logger()'],['../class_shared_library_1_1_wrappers_1_1_email_management_1_1_s_m_t_p.html#a733cbb046eac861ee468c5cb5d067a95',1,'SharedLibrary.Wrappers.EmailManagement.SMTP.logger()'],['../class_shared_library_1_1_wrappers_1_1_mongo_d_b_1_1_mongo_d_b_wrapper.html#a1177a86b12c89bdfa8999ed40181f502',1,'SharedLibrary.Wrappers.MongoDB.MongoDBWrapper.logger()'],['../class_shared_library_1_1_wrappers_1_1_web_utils_1_1_web_request_wrapper.html#a3395437a6733222aa1045c2a8963db6f',1,'SharedLibrary.Wrappers.WebUtils.WebRequestWrapper.logger()']]]
+];

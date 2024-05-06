@@ -1,0 +1,6 @@
+<map id="GooglePlayTools.AppsCleaner.RunScraper" name="GooglePlayTools.AppsCleaner.RunScraper">
+<area shape="rect" id="node2" href="$class_shared_library_1_1_base_classes_1_1_base_scraper.html#a3a4b75d49f3e81d88f12beed8de7b49c" title="Performs a request to playstore and get The HTML code of this app page. " alt="" coords="273,5,461,47"/>
+<area shape="rect" id="node3" href="$class_google_play_tools_1_1_apps_cleaner.html#afd6543ef76393a1c4d190180573f8673" title="Performs the required actions to store the buffered related apps in MongoDB. " alt="" coords="265,71,469,112"/>
+<area shape="rect" id="node4" href="$class_shared_library_1_1_exception_callback.html#aac4c08013df130611a62a19c6233003d" title="It Sends an email to the administrator. " alt="" coords="257,136,476,177"/>
+<area shape="rect" id="node5" href="$class_shared_library_1_1_wrappers_1_1_email_management_1_1_s_m_t_p.html#ab395843cd4b16b53dcb464fce27c0b95" title="Send an email from bypassing SSL security. Only for testing pourposes. " alt="" coords="524,136,815,177"/>
+</map>

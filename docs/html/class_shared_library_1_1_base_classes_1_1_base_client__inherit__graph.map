@@ -1,0 +1,12 @@
+<map id="SharedLibrary.BaseClasses.BaseClient" name="SharedLibrary.BaseClasses.BaseClient">
+<area shape="rect" id="node2" href="$class_google_play_tools_1_1_crawler.html" title="This project performs predefined searches into GooglePlay to populate the scraper queue..." alt="" coords="252,629,423,853"/>
+<area shape="rect" id="node3" href="$class_google_play_tools_1_1_term_crawler.html" title="This project look into db to perform searches suggested by our users into GooglePlay to populate the ..." alt="" coords="447,615,647,868"/>
+<area shape="rect" id="node4" href="$class_shared_library_1_1_base_classes_1_1_base_scraper.html" title="Fields and methods used by all Scrapers. " alt="" coords="671,659,859,824"/>
+<area shape="rect" id="node5" href="$class_google_play_tools_1_1_apps_cleaner.html" title="It parses all urls from &quot;appscleanerqueue&quot; deletes the apps from appsdata that doesn&#39;t exists anymore..." alt="" coords="5,1048,205,1169"/>
+<area shape="rect" id="node6" href="$class_google_play_tools_1_1_apps_updater.html" title="It parses all urls from &quot;appsupdaterqueue&quot; and updates all the information from &quot;appsdata&quot; collection..." alt="" coords="230,1041,431,1177"/>
+<area shape="rect" id="node7" href="$class_google_play_tools_1_1_daily_scraper.html" title="It parses all urls from &quot;daily scraper queue&quot; collection and add all the information to &quot;dailydata&quot; c..." alt="" coords="456,975,656,1243"/>
+<area shape="rect" id="node8" href="$class_google_play_tools_1_1_scraper.html" title="It parses all urls from SCRAPER_QUEUE_COLLECTION and add all the information to MONGO_COLLECTION ..." alt="" coords="680,1041,851,1177"/>
+<area shape="rect" id="node9" href="$class_google_play_tools_1_1_top_scraper.html" title="Crawl GooglePlay top apps and store them into &quot;topdata&quot; collection. " alt="" coords="875,975,1067,1243"/>
+<area shape="rect" id="node10" href="$class_shared_library_1_1_embebed_clients_1_1_reviews_scraper.html" title="This is an embebed client. It parses comments and authors from an app. " alt="" coords="1091,916,1298,1301"/>
+<area shape="rect" id="node11" href="$class_shared_library_1_1_embebed_clients_1_1_users_scraper.html" title="Embebed client that uses selenium to log into PlayStore and parse users and their apps..." alt="" coords="1322,1026,1529,1191"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="GM.SharedLibrary.BaseClasses.BaseCrawler" name="GM.SharedLibrary.BaseClasses.BaseCrawler">
+<area shape="rect" id="node3" href="$class_g_m_1_1_crawler_1_1_crawler.html" title="This project performs predefined searches into PlayStore to populate the scraper queue. " alt="" coords="5,762,161,986"/>
+<area shape="rect" id="node4" href="$class_g_m_1_1_top_crawler_1_1_top_crawler.html" title="Crawl search results from playstore. It also works for categories. " alt="" coords="185,755,371,993"/>
+<area shape="rect" id="node2" href="$class_g_m_1_1_shared_library_1_1_base_classes_1_1_base_client.html" title="Fields and methods used by all clients. " alt="" coords="63,5,298,464"/>
+</map>

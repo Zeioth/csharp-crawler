@@ -1,0 +1,14 @@
+<map id="GooglePlayTools.DailyScraper" name="GooglePlayTools.DailyScraper">
+<area shape="rect" id="node2" href="$class_shared_library_1_1_base_classes_1_1_base_scraper.html" title="Fields and methods used by all Scrapers. " alt="" coords="708,2923,840,3030"/>
+<area shape="rect" id="node3" href="$class_shared_library_1_1_base_classes_1_1_base_client.html" title="Fields and methods used by all clients. " alt="" coords="1397,2541,1527,2633"/>
+<area shape="rect" id="node26" href="$class_shared_library_1_1_base_classes_1_1_base_crawler.html" title="Fields and methods used by all Crawlers. " alt="" coords="1391,2938,1509,3015"/>
+<area shape="rect" id="node5" href="$class_shared_library_1_1_wrappers_1_1_web_utils_1_1_web_request_wrapper.html" title="Wrapper for WebRequests. " alt="" coords="1133,1873,1327,2259"/>
+<area shape="rect" id="node15" href="$class_shared_library_1_1_wrappers_1_1_mongo_d_b_1_1_mongo_d_b_wrapper.html" title="Perform MongoDB operations adapted to our system. " alt="" coords="1897,1903,2123,2229"/>
+<area shape="rect" id="node25" href="$class_shared_library_1_1_embebed_clients_1_1_reviews_crawler.html" title="Wrapper of the Parser class. It parses comments from an app. In practice, it works like an embebed sc..." alt="" coords="1195,3129,1401,3309"/>
+<area shape="rect" id="node21" href="$class_shared_library_1_1_parsers_1_1_parser.html" title="This class contains common methods for all parsers. " alt="" coords="119,145,298,985"/>
+<area shape="rect" id="node30" href="$class_shared_library_1_1_parsers_1_1_parser.html" title="This class contains common methods for all parsers. " alt="" coords="2567,1009,2760,1849"/>
+<area shape="rect" id="node29" href="$class_shared_library_1_1_embebed_clients_1_1_users_wrapper.html" title="Wrapper of the parser class that use selenium to log into PlayStore and parse users. " alt="" coords="2523,2519,2729,2655"/>
+<area shape="rect" id="node20" href="$class_shared_library_1_1_parsers_1_1_google_play_parser.html" title="{SharedLibrary.Parsers.Google\lPlayParser\n||+ ParseAppPage()\l}" alt="" coords="5,2020,201,2112"/>
+<area shape="rect" id="node23" href="$class_shared_library_1_1_models_1_1_app_model.html" title="{SharedLibrary.Models.App\lModel\n|+ _id\l+ refdate\l+ name\l+ devpage\l+ istopdev\l+ devurl\l+ cat\l+ isfree\l+ price\l+ currency\l+ cover\l+ screens\l+ desc\l+ news\l+ score\l+ updated\l+ size\l+ instmin\l+ instmax\l+ version\l+ osmin\l+ rated\l+ haspurchases\l+ devemail\l+ devweb\l+ privacy\l+ address\l|+ ToBsonDocument()\l}" alt="" coords="511,2351,685,2824"/>
+<area shape="rect" id="node28" href="$class_shared_library_1_1_models_1_1_app_reviews_result.html" title="An object that contains separately appReviews and their authorUrls. Used for logic, Will not be actually stored. " alt="" coords="1075,2916,1249,3037"/>
+</map>

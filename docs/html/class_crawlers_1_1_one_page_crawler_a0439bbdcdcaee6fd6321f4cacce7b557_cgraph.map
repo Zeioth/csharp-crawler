@@ -1,0 +1,11 @@
+<map id="Crawlers.OnePageCrawler.Main" name="Crawlers.OnePageCrawler.Main">
+<area shape="rect" id="node2" href="$class_crawlers_1_1_one_page_crawler.html#a44e6cf0b64f97967b0ccacc7dd7a7e3d" title="Shows the help " alt="" coords="306,5,487,47"/>
+<area shape="rect" id="node3" href="$class_g_m_1_1_shared_library_1_1_wrappers_1_1_log_1_1_log_setup.html#a1ea98dee9e9af74560a64ab2d1d2b5fc" title="GM.SharedLibrary.Wrappers.\lLog.LogSetup.InitializeLog" alt="" coords="301,71,492,112"/>
+<area shape="rect" id="node4" href="$class_g_m_1_1_shared_library_1_1_wrappers_1_1_mongo_d_b_1_1_mongo_d_b_wrapper.html#a0608d79d6be7efe88758c0e5501ca1c6" title="Ensures that a collections have an index. " alt="" coords="263,136,531,177"/>
+<area shape="rect" id="node5" href="$class_g_m_1_1_shared_library_1_1_wrappers_1_1_mongo_d_b_1_1_mongo_d_b_wrapper.html#a559c4d8f08e707eaf335dbe146631db9" title="It works the same that GetFromQueue but we get a QueuedTerm model. " alt="" coords="273,201,520,257"/>
+<area shape="rect" id="node6" href="$class_g_m_1_1_shared_library_1_1_exception_callback.html#a80ee1bcbf7d10d4546f4ef7d41fdcb3b" title="It Sends an email to the administrator. " alt="" coords="579,267,768,308"/>
+<area shape="rect" id="node8" href="$class_crawlers_1_1_one_page_crawler.html#a634f199ca905df39fa9dcb2fbf502c10" title="Executes a Search using the term variable as search term. It only crawl a single result page and add ..." alt="" coords="306,332,487,373"/>
+<area shape="rect" id="node7" href="$class_g_m_1_1_shared_library_1_1_wrappers_1_1_email_management_1_1_s_m_t_p.html#a62f073709b07e065ef7fcbf0ef67643d" title="Send an email from bypassing SSL security. Only for testing pourposes. " alt="" coords="816,259,1055,315"/>
+<area shape="rect" id="node9" href="$class_g_m_1_1_shared_library_1_1_parsers_1_1_parser.html#aca865d8993e36497c16dd22c0970e438" title="Parse App URLS from the Search Result. This method is used by the crawlers. " alt="" coords="581,332,765,373"/>
+<area shape="rect" id="node10" href="$class_crawlers_1_1_one_page_crawler.html#ad7a22f62676a635e7d1d853cf11d0b46" title="Enqueue an app in database worker queue. It&#39;s just an adapted/simplified version of Crawler&#39;s Enqueue..." alt="" coords="583,397,764,439"/>
+</map>

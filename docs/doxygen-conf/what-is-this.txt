@@ -1,0 +1,2 @@
+This file is used by doxygen to automatically generate documentation from source code.
+You don't need to manually edit this file, you can do it opening it with doxygen-wizard.

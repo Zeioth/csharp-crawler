@@ -1,0 +1,5 @@
+<map id="GooglePlayTools.Scraper.ManageArgs" name="GooglePlayTools.Scraper.ManageArgs">
+<area shape="rect" id="node2" href="$class_shared_library_1_1_base_classes_1_1_base_client.html#aae27eee9f2b6b211a382dad526bc4c89" title="Will reinstantiate and configure our Loger with the current arguments. " alt="" coords="228,5,416,47"/>
+<area shape="rect" id="node4" href="$class_shared_library_1_1_base_classes_1_1_base_client.html#a95d6ebace6c6803e19f4526780d070d0" title="Will reinstantiate and configure mongoDB with the current arguments. " alt="" coords="228,71,416,112"/>
+<area shape="rect" id="node3" href="$class_shared_library_1_1_wrappers_1_1_log_1_1_log_setup.html#a2b5fb5a18ce4db2bfdd3f4e55ff74b5c" title="SharedLibrary.Wrappers.Log.\lLogSetup.InitializeLog" alt="" coords="464,5,655,47"/>
+</map>

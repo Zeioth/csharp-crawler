@@ -1,0 +1,9 @@
+<map id="SharedLibrary.EmbebedClients.ReviewsCrawler" name="SharedLibrary.EmbebedClients.ReviewsCrawler">
+<area shape="rect" id="node2" href="$class_shared_library_1_1_base_classes_1_1_base_crawler.html" title="Fields and methods used by all Crawlers. " alt="" coords="292,1830,409,1907"/>
+<area shape="rect" id="node3" href="$class_shared_library_1_1_base_classes_1_1_base_client.html" title="Fields and methods used by all clients. " alt="" coords="729,1633,860,1725"/>
+<area shape="rect" id="node5" href="$class_shared_library_1_1_wrappers_1_1_web_utils_1_1_web_request_wrapper.html" title="Wrapper for WebRequests. " alt="" coords="882,1151,1075,1536"/>
+<area shape="rect" id="node15" href="$class_shared_library_1_1_wrappers_1_1_mongo_d_b_1_1_mongo_d_b_wrapper.html" title="Perform MongoDB operations adapted to our system. " alt="" coords="1781,1180,2006,1507"/>
+<area shape="rect" id="node21" href="$class_shared_library_1_1_parsers_1_1_parser.html" title="This class contains common methods for all parsers. " alt="" coords="2115,145,2293,985"/>
+<area shape="rect" id="node20" href="$class_shared_library_1_1_parsers_1_1_google_play_parser.html" title="{SharedLibrary.Parsers.Google\lPlayParser\n||+ ParseAppPage()\l}" alt="" coords="2066,1297,2262,1389"/>
+<area shape="rect" id="node24" href="$class_shared_library_1_1_models_1_1_app_reviews_result.html" title="An object that contains separately appReviews and their authorUrls. Used for logic, Will not be actually stored. " alt="" coords="1941,1808,2115,1929"/>
+</map>

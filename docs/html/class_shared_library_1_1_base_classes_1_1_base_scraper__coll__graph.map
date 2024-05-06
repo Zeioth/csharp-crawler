@@ -1,0 +1,8 @@
+<map id="SharedLibrary.BaseClasses.BaseScraper" name="SharedLibrary.BaseClasses.BaseScraper">
+<area shape="rect" id="node2" href="$class_shared_library_1_1_base_classes_1_1_base_client.html" title="Fields and methods used by all clients. " alt="" coords="924,1789,1055,1881"/>
+<area shape="rect" id="node4" href="$class_shared_library_1_1_wrappers_1_1_web_utils_1_1_web_request_wrapper.html" title="Wrapper for WebRequests. " alt="" coords="1282,1151,1476,1536"/>
+<area shape="rect" id="node14" href="$class_shared_library_1_1_wrappers_1_1_mongo_d_b_1_1_mongo_d_b_wrapper.html" title="Perform MongoDB operations adapted to our system. " alt="" coords="184,1180,409,1507"/>
+<area shape="rect" id="node20" href="$class_shared_library_1_1_parsers_1_1_parser.html" title="This class contains common methods for all parsers. " alt="" coords="639,145,818,985"/>
+<area shape="rect" id="node19" href="$class_shared_library_1_1_parsers_1_1_google_play_parser.html" title="{SharedLibrary.Parsers.Google\lPlayParser\n||+ ParseAppPage()\l}" alt="" coords="892,1297,1088,1389"/>
+<area shape="rect" id="node22" href="$class_shared_library_1_1_models_1_1_app_model.html" title="{SharedLibrary.Models.App\lModel\n|+ _id\l+ refdate\l+ name\l+ devpage\l+ istopdev\l+ devurl\l+ cat\l+ isfree\l+ price\l+ currency\l+ cover\l+ screens\l+ desc\l+ news\l+ score\l+ updated\l+ size\l+ instmin\l+ instmax\l+ version\l+ osmin\l+ rated\l+ haspurchases\l+ devemail\l+ devweb\l+ privacy\l+ address\l|+ ToBsonDocument()\l}" alt="" coords="2426,1599,2601,2072"/>
+</map>

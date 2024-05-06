@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_shared_library_1_1_base_classes_1_1_base_client.html" title="Fields and methods used by all clients. " alt="" coords="5,91,193,133"/>
+<area shape="rect" id="node2" href="$class_google_play_tools_1_1_crawler.html" title="This project performs predefined searches into GooglePlay to populate the scraper queue..." alt="" coords="256,48,427,75"/>
+<area shape="rect" id="node3" href="$class_google_play_tools_1_1_term_crawler.html" title="This project look into db to perform searches suggested by our users into GooglePlay to populate the ..." alt="" coords="241,99,441,125"/>
+<area shape="rect" id="node4" href="$class_shared_library_1_1_base_classes_1_1_base_scraper.html" title="Fields and methods used by all Scrapers. " alt="" coords="247,150,435,191"/>
+<area shape="rect" id="node5" href="$class_google_play_tools_1_1_apps_cleaner.html" title="It parses all urls from &quot;appscleanerqueue&quot; deletes the apps from appsdata that doesn&#39;t exists anymore..." alt="" coords="493,5,693,32"/>
+<area shape="rect" id="node6" href="$class_google_play_tools_1_1_apps_updater.html" title="It parses all urls from &quot;appsupdaterqueue&quot; and updates all the information from &quot;appsdata&quot; collection..." alt="" coords="492,56,693,83"/>
+<area shape="rect" id="node7" href="$class_google_play_tools_1_1_daily_scraper.html" title="It parses all urls from &quot;daily scraper queue&quot; collection and add all the information to &quot;dailydata&quot; c..." alt="" coords="493,107,693,133"/>
+<area shape="rect" id="node8" href="$class_google_play_tools_1_1_scraper.html" title="It parses all urls from SCRAPER_QUEUE_COLLECTION and add all the information to MONGO_COLLECTION ..." alt="" coords="507,157,678,184"/>
+<area shape="rect" id="node9" href="$class_google_play_tools_1_1_top_scraper.html" title="Crawl GooglePlay top apps and store them into &quot;topdata&quot; collection. " alt="" coords="497,208,689,235"/>
+<area shape="rect" id="node10" href="$class_shared_library_1_1_embebed_clients_1_1_reviews_scraper.html" title="This is an embebed client. It parses comments and authors from an app. " alt="" coords="489,259,696,301"/>
+<area shape="rect" id="node11" href="$class_shared_library_1_1_embebed_clients_1_1_users_scraper.html" title="Embebed client that uses selenium to log into PlayStore and parse users and their apps..." alt="" coords="489,325,696,366"/>
+</map>

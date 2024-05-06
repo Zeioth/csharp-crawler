@@ -1,0 +1,7 @@
+<map id="GooglePlayTools.TermCrawler.RunTermCrawler" name="GooglePlayTools.TermCrawler.RunTermCrawler">
+<area shape="rect" id="node2" href="$class_google_play_tools_1_1_term_crawler.html#a643e6a4f372b6fbbe6a9ff2dec57e538" title="Permorm requests to PlayStore and gets the html code of the current term. " alt="" coords="257,5,461,47"/>
+<area shape="rect" id="node3" href="$class_shared_library_1_1_exception_callback.html#aac4c08013df130611a62a19c6233003d" title="It Sends an email to the administrator. " alt="" coords="509,35,728,76"/>
+<area shape="rect" id="node5" href="$class_google_play_tools_1_1_term_crawler.html#a55dd8b93211849c0c0dd7a65961b99ec" title="Stores the related apps into MongoDB QueuedApps collection. " alt="" coords="257,123,461,164"/>
+<area shape="rect" id="node6" href="$class_google_play_tools_1_1_term_crawler.html#a6de2bef96aaa39b078db34410da8c55c" title="Set all fields to default. " alt="" coords="257,188,461,229"/>
+<area shape="rect" id="node4" href="$class_shared_library_1_1_wrappers_1_1_email_management_1_1_s_m_t_p.html#ab395843cd4b16b53dcb464fce27c0b95" title="Send an email from bypassing SSL security. Only for testing pourposes. " alt="" coords="776,35,1067,76"/>
+</map>
