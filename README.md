@@ -1,5 +1,5 @@
 # csharp-crawler
-This C# project is a multi thread and multi process C# solution for crawling and sraping apps from Google Playstore. Formerly used by the startup GameMetrics to generate real time report for big data analytics, and crossing data from multiple sources.
+This C# project is a multi thread and multi process C# solution for crawling and scraping apps from Google Playstore. Formerly used by the startup GameMetrics to generate real time report for big data analytics, and crossing data from multiple sources.
 
 ## Projects in the solution
 
